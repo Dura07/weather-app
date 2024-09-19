@@ -1,13 +1,18 @@
 Weather Application
+
+
 Project Overview
+
 The Weather Application provides real-time weather updates and forecasts for any location worldwide. It aims to help users stay informed about current weather conditions and upcoming forecasts. Whether you're planning a trip, managing your daily routine, or simply staying informed, this application offers an intuitive interface for accessing weather data.
 
 Key Features:
+
 Real-time weather data for any location (temperature, humidity, wind speed, etc.).
 5-day weather forecast.
 Easy-to-use search functionality by city or location.
 Integration with external weather APIs for accurate data.
-Team Members
+
+Team Member(s)
 Oyedeji Oluwasheye - Full-stack Developer
 
 Installation Instructions
@@ -55,6 +60,8 @@ Axios: For making HTTP requests to the weather API.
 Weather API: External service to fetch real-time weather data. (e.g., OpenWeatherMap API)
 dotenv: For managing environment variables.
 Bootstrap: For styling the user interface components.
+
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
