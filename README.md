@@ -27,7 +27,7 @@ Git (to clone the repository)
 Steps to Set Up the Project Locally:
 
 Clone the repository from GitHub:
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/Dura07/weather-app.git
 
 Navigate into the project directory:
 cd weather-app
@@ -53,13 +53,11 @@ Enter a city name or location in the search bar to fetch the current weather con
 View real-time data such as temperature, humidity, wind speed, and a 5-day forecast for the selected location.
 Use the application to search for other cities or locations as needed.
 Dependencies
-The following libraries and services are used in this project:
 
-React.js: For building the frontend of the application.
+
 Axios: For making HTTP requests to the weather API.
 Weather API: External service to fetch real-time weather data. (e.g., OpenWeatherMap API)
-dotenv: For managing environment variables.
-Bootstrap: For styling the user interface components.
+
 
 
 License
